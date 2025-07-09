@@ -138,10 +138,4 @@ Immediately after which, this table of valid commands will pop up to help you ge
 
 <br>
 
-# Queries and Feedback
-
-For any Queries and feedback please mail me at notvenupulagam@gmail.com
-
-Hope you liked the website. Have a good day. Happy gogling.
-
 *Thank you.*
